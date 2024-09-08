@@ -1,16 +1,61 @@
-# quiz_app
+# Dynamic Quizard
 
-A new Flutter project.
+Este es un proyecto de una aplicación de quiz hecha en Flutter. La aplicación está diseñada para ayudar a una niña de 8 años a aprender y divertirse respondiendo preguntas interactivas.
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+- Preguntas interactivas con opciones de respuesta.
+- Almacenamiento de las respuestas seleccionadas.
+- Navegación entre preguntas.
+- Diseño sencillo y amigable para niños.
 
-A few resources to get you started if this is your first Flutter project:
+## Requisitos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK (versión 3.0.0 o superior)
+- Dart (versión 2.15.0 o superior)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalación
+
+1. Clona este repositorio en tu máquina local:
+
+    ```bash
+    git clone https://github.com/tu-usuario/quiz-app.git
+    ```
+
+2. Navega al directorio del proyecto:
+
+    ```bash
+    cd quiz-app
+    ```
+
+3. Instala las dependencias:
+
+    ```bash
+    flutter pub get
+    ```
+
+4. Ejecuta la app:
+
+    ```bash
+    flutter run
+    ```
+
+## Estructura del Proyecto
+
+El proyecto sigue una estructura básica de Flutter. Aquí hay una descripción general de las carpetas y archivos importantes:
+
+- `lib/`: Contiene el código principal de la aplicación.
+  - `main.dart`: Punto de entrada de la aplicación.
+  - `questions_summary.dart`: Muestra un resumen de las respuestas seleccionadas.
+  - `quiz_page.dart`: Pantalla principal del quiz.
+  
+- `assets/images/`: Carpeta donde se almacenan las imágenes usadas en la app.
+  
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, puedes abrir un issue o enviar un pull request.
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
