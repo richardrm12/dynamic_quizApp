@@ -7,93 +7,93 @@ class QuizQuestions {
 
 List<QuizQuestions> questions = [
   QuizQuestions(
-    '¿Cuánto es 5 + 8?',
+    '¿Quién pintó la Mona Lisa?',
     [
-      '13',
-      '14',
-      '12',
-      '11',
+      'Leonardo da Vinci',
+      'Pablo Picasso',
+      'Vincent van Gogh',
+      'Salvador Dalí',
     ],
   ),
   QuizQuestions(
-    '¿Cuánto es 14 - 6?',
+    '¿Cuál es el país más grande del mundo?',
     [
-      '8',
+      'Rusia',
+      'Canadá',
+      'China',
+      'Estados Unidos',
+    ],
+  ),
+  QuizQuestions(
+    '¿Cuál es el océano más grande?',
+    [
+      'Océano Pacífico',
+      'Océano Atlántico',
+      'Océano Índico',
+      'Océano Ártico',
+    ],
+  ),
+  QuizQuestions(
+    '¿Quién escribió "Cien años de soledad"?',
+    [
+      'Gabriel García Márquez',
+      'Mario Vargas Llosa',
+      'Jorge Luis Borges',
+      'Isabel Allende',
+    ],
+  ),
+  QuizQuestions(
+    '¿Cuál es el planeta más cercano al Sol?',
+    [
+      'Mercurio',
+      'Venus',
+      'Tierra',
+      'Marte',
+    ],
+  ),
+  QuizQuestions(
+    '¿En qué continente se encuentra Egipto?',
+    [
+      'África',
+      'Asia',
+      'Europa',
+      'América',
+    ],
+  ),
+  QuizQuestions(
+    '¿Cuántos continentes hay en el mundo?',
+    [
       '7',
-      '9',
-      '10',
+      '6',
+      '8',
+      '5',
     ],
   ),
   QuizQuestions(
-    '¿Cuánto es 3 x 4?',
+    '¿Qué día se celebra la independencia de Estados Unidos?',
     [
-      '12',
-      '11',
-      '13',
-      '14',
+      '4 de julio',
+      '14 de julio',
+      '15 de agosto',
+      '25 de diciembre',
     ],
   ),
   QuizQuestions(
-    '¿Cuánto es 9 + 5?',
+    '¿Cuál es el país con más población en el mundo?',
     [
-      '14',
-      '15',
-      '13',
-      '16',
+      'China',
+      'India',
+      'Estados Unidos',
+      'Indonesia',
     ],
   ),
   QuizQuestions(
-    '¿Cuánto es 20 - 7?',
+    '¿Cuál es el río más largo del mundo?',
     [
-      '13',
-      '14',
-      '15',
-      '12',
-    ],
-  ),
-  QuizQuestions(
-    '¿Cuánto es 6 x 3?',
-    [
-      '18',
-      '15',
-      '19',
-      '20',
-    ],
-  ),
-  QuizQuestions(
-    '¿Cuánto es 7 + 9?',
-    [
-      '16',
-      '15',
-      '17',
-      '18',
-    ],
-  ),
-  QuizQuestions(
-    '¿Cuánto es 15 - 4?',
-    [
-      '11',
-      '12',
-      '10',
-      '13',
-    ],
-  ),
-  QuizQuestions(
-    '¿Cuánto es 4 x 5?',
-    [
-      '20',
-      '19',
-      '21',
-      '18',
-    ],
-  ),
-  QuizQuestions(
-    '¿Cuánto es 8 + 6?',
-    [
-      '14',
-      '13',
-      '15',
-      '12',
+      'Río Amazonas',
+      'Río Nilo',
+      'Río Yangtsé',
+      'Río Misisipi',
     ],
   ),
 ];
